@@ -3,9 +3,12 @@
   "description": "Panel: transparent, straight, reduced height, non-bold fonts. Nothing more.\n\nLooks roughly like Ubuntu session's panel (Yaru). You can easily modify the transparency level through the CSS stylesheet in the extensions's folder.",
   "name": "Ubuntu-like Panel",
   "shell-version": [
-    "43"
+  "40",
+  "41",
+  "42",
+  "43"
   ],
-  "url": "",
-  "uuid": "transparent-panel@fthx",
-  "version": 5
+  "url": "https://github.com/pedrkw/ubuntu-like-panel",
+  "uuid": "transparent-panel@pedrokw",
+  "version": 6
 }
